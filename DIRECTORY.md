@@ -874,6 +874,7 @@
   * [Random Pivot Quick Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/random_pivot_quick_sort.py)
   * [Recursive Bubble Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/recursive_bubble_sort.py)
   * [Recursive Insertion Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/recursive_insertion_sort.py)
+  * [Recursive Mergesort Array](https://github.com/TheAlgorithms/Python/blob/master/sorts/recursive_mergesort_array.py)
   * [Recursive Quick Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/recursive_quick_sort.py)
   * [Selection Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/selection_sort.py)
   * [Shell Sort](https://github.com/TheAlgorithms/Python/blob/master/sorts/shell_sort.py)
