@@ -97,8 +97,8 @@
   * [Peak Signal To Noise Ratio](https://github.com/TheAlgorithms/Python/blob/master/compression/peak_signal_to_noise_ratio.py)
 
 ## Computer Vision
-  * [Harriscorner](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/harriscorner.py)
-  * [Meanthreshold](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/meanthreshold.py)
+  * [Harris Corner](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/harris_corner.py)
+  * [Mean Threshold](https://github.com/TheAlgorithms/Python/blob/master/computer_vision/mean_threshold.py)
 
 ## Conversions
   * [Binary To Decimal](https://github.com/TheAlgorithms/Python/blob/master/conversions/binary_to_decimal.py)
@@ -136,6 +136,7 @@
     * [Segment Tree](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/segment_tree.py)
     * [Segment Tree Other](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/segment_tree_other.py)
     * [Treap](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/treap.py)
+    * [Wavelet Tree](https://github.com/TheAlgorithms/Python/blob/master/data_structures/binary_tree/wavelet_tree.py)
   * Disjoint Set
     * [Alternate Disjoint Set](https://github.com/TheAlgorithms/Python/blob/master/data_structures/disjoint_set/alternate_disjoint_set.py)
     * [Disjoint Set](https://github.com/TheAlgorithms/Python/blob/master/data_structures/disjoint_set/disjoint_set.py)
@@ -232,6 +233,7 @@
 ## Dynamic Programming
   * [Abbreviation](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/abbreviation.py)
   * [Bitmask](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/bitmask.py)
+  * [Catalan Numbers](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/catalan_numbers.py)
   * [Climbing Stairs](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/climbing_stairs.py)
   * [Edit Distance](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/edit_distance.py)
   * [Factorial](https://github.com/TheAlgorithms/Python/blob/master/dynamic_programming/factorial.py)
@@ -786,6 +788,8 @@
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_129/sol1.py)
   * Problem 135
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_135/sol1.py)
+  * Problem 144
+    * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_144/sol1.py)
   * Problem 173
     * [Sol1](https://github.com/TheAlgorithms/Python/blob/master/project_euler/problem_173/sol1.py)
   * Problem 174
